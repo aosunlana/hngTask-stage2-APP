@@ -2,15 +2,21 @@
 
 A simple flutter app that collects user input and displays it on the screen
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![129768444-cc8f7570-be91-4634-8889-649b8646941c](https://user-images.githubusercontent.com/81052783/130188155-d320f2db-1aae-490f-8d69-b5a18c408313.png)
 
-A few resources to get you started if this is your first Flutter project:
+More about HNG internship at https://zuri.team, https://internship.zuri.team or https://training.zuri.team.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![hng](https://user-images.githubusercontent.com/81052783/130188308-9d0d540a-2e6e-4433-907a-6d259c75ad14.gif)
+
+
+
+
+
+
+
+You can view the app via https://appetize.io/app/mkm5qwdbn4nc8a0rh1z4qdrnzg
+
+
+
